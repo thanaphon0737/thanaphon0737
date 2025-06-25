@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Thanaphon Thanusan]!
 
-I'm a **web developer** from Thailand who loves building things with **JavaScript**, **React**, and **Node.js**. I’m currently learning more about **frontend**, **backend**, and **data science** to become a well-rounded developer.
+I'm a **Full stack developer** from Thailand who loves building things with **JavaScript**, **React**, and **Node.js**. I’m currently learning more about **frontend**, **backend**, and **data science** to become a well-rounded developer.
 
 ---
 
@@ -30,7 +30,7 @@ I'm a **web developer** from Thailand who loves building things with **JavaScrip
 A simple full-stack note-taking app to practice React, Node.js, and CRUD operations.
 
 # 🤖 AI Assistant Note (Learning Project)
-
+[AI knowledge hub](https://github.com/thanaphon0737/knowledge_hub)
 An AI-powered note-taking assistant where you can **save notes**, **ask questions**, and let the AI help you **summarize or retrieve** your content.
 
 This project is part of my learning journey in AI integration and full-stack development.
